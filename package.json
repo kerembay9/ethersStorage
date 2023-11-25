@@ -3,6 +3,8 @@
     "dotenv": "^16.3.1",
     "ethers": "^6.8.1",
     "fs-extra": "^11.1.1",
+    "prettier": "^3.1.0",
+    "prettier-plugin-solidity": "^1.2.0",
     "solc": "0.8.7-fixed"
   },
   "scripts": {
